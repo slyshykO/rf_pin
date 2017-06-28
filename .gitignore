@@ -1,0 +1,13 @@
+*.map
+*.user*
+*.lss
+*.lst
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+*.bg
+*.lock
+*.*~
+
